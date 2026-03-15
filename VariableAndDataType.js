@@ -1,0 +1,10 @@
+var name = "John";
+var age = 20;
+var isStudent = true;
+var marks = [80, 90, 85];
+var address = "Mumbai";
+console.log(name);
+console.log(age);
+console.log(isStudent);
+console.log(marks);
+console.log(address);
